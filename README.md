@@ -16,6 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+ https://github-readme-stats.vercel.app/api?username=shiyyaas&show_icons=true&theme=tokyonight
+
+
+
+
+
+
 <p align="center" style="margin-top: 30px;">
     <img src="https://emojis.slackmojis.com/emojis/images/1598364417/10264/partykeanu.gif" width="35" height="35"/> 
     <img src="https://emojis.slackmojis.com/emojis/images/1450319445/43/mario.gif" width="25" height="25"/> 
@@ -26,5 +35,3 @@ Here are some ideas to get you started:
     <img src="https://emojis.slackmojis.com/emojis/images/1460579133/354/doom_look.gif" width="25" height="25"/>
     <img src="https://emojis.slackmojis.com/emojis/images/1460579188/357/doom_lost_soul.gif" width="25" height="25"/> 
 </p>
-
-https://github-readme-stats.vercel.app/api?username=shiyyaas&show_icons=true&theme=tokyonight
