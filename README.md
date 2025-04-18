@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 -->
 
 
+## 📊 My GitHub Stats
+![Humraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhd-humraz&show_icons=true&theme=tokyonight)
 
- https://github-readme-stats.vercel.app/api?username=shiyyaas&show_icons=true&theme=tokyonight
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mh-humraz&layout=compact&theme=tokyonight)
 
 
 
