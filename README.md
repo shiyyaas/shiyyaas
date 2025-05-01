@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![snake gif](https://github.com/<your-username>/<your-repo>/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/shiyyaas/snk1/blob/output/github-contribution-grid-snake.svg)
