@@ -10,8 +10,10 @@
 ## 🗂️ Changelog: Lessons from the Commit History
 
 ```
-2025-08-31  ⬇️
+2025-09-03  ⬇️
 ```
+
+<!--
 
 - **2018**  
   ✨ `feat:` Wrote my first “Hello World.”  
@@ -38,9 +40,10 @@
 - **2023**  
   🌀 `fix:` Explained recursion to a friend. Lost them (and myself) in the process.  
   🌱 `feat:` Still here, still learning!
-
+-->
 ---
 
+<!-- 
 ## <div align="center">💡 Failure Résumé (Greatest Misses)</div>
 
 <div align="center">
@@ -51,16 +54,15 @@
 🧙‍♂️ Tried rubber duck debugging. The rubber duck quit.
 
 </div>
-
+-->
 ---
 
 ## <div align="center">🎯 Now</div>
 
 <div align="center">
 
-🛠️ Writing code, breaking things, and fixing a few.  
-🧩 Always up for a good puzzle or a better error message.  
-🌐 Occasionally found wandering in docs, chasing edge cases.
+🛠️ Writing WEB, breaking API's.  
+🧩 Trying to take the world of web.  
 
 </div>
 
@@ -68,9 +70,8 @@
 
 ## <div align="center">✉️ Let's Connect</div>
 <p align="center">
-  <a href="mailto:your@email.com">📧 Email</a> • 
-  <a href="https://linkedin.com/in/your-link">💼 LinkedIn</a> • 
-  <a href="https://twitter.com/your-handle">🐦 Twitter</a>
+  <a href="mailto:shiyasps33@gmail.com">📧 Email</a> • 
+  <a href="https://linkedin.com/in/shiyasps">💼 LinkedIn</a> • 
 </p>
 
 ---
