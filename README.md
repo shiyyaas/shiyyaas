@@ -70,8 +70,12 @@
 
 ## <div align="center">✉️ Let's Connect</div>
 <p align="center">
-  <a href="mailto:shiyasps33@gmail.com">📧 Email</a> • 
-  <a href="https://linkedin.com/in/shiyasps">💼 LinkedIn</a> • 
+  <a href="mailto:shiyasps33@gmail.com">
+    <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Gmail%20Thug.gif" width="100">
+  </a> 
+  <a href="https://linkedin.com/in/shiyasps">
+    <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/linkedin.gif" width="100">
+  </a> 
 </p>
 
 ---
