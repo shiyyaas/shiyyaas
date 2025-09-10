@@ -84,9 +84,11 @@
 </p>
 
 ---
+
 <div align="center">
   <img src="https://github-stats-alpha.vercel.app/api/?username=shiyyaas" alt="My data">
 </div>
+
 ---
 
 <p align="center">
