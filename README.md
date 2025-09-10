@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I’m Shiyyaas</h1>
 
 <p align="center">
-  <em>“Most progress is made by fixing your own mistakes.”<br>
-  — Me, after midnight</em>
+  <em>“NOOOOO....WORDSSSSSS”<br>
+  — Me, Seriously</em>
 </p>
 
 ---
