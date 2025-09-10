@@ -75,11 +75,9 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiyyaas&show_icons=true&theme=gruvbox" alt="Shiyyaas's GitHub stats" width="400"/>
-</p>
-
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api/?username=shiyyaas" alt="My data">
+</div>
 ---
 
 <p align="center">
